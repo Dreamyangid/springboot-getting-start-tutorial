@@ -1,12 +1,12 @@
 # JAVA **JDK** 下載安裝：
 
-請由以下連結下載安裝檔 `.msi`！如下圖Figure 1所示：**選擇下載版本 8 & 11**
+## 請由以下連結下載安裝檔 `.msi`！如下圖Figure 1所示：**選擇下載版本 8 & 11**
 
-[Eclipse Temurin™ Latest Releases](https://adoptium.net/temurin/releases)
+### [Eclipse Temurin™ Latest Releases](https://adoptium.net/temurin/releases)
 
 ![Figure 1](./imgs/openjdk-download.png)
 
-下載完成後執行安裝檔，按照步驟完成安裝！
+### 下載完成後執行安裝檔，按照步驟完成安裝！
 
 ![步驟一](./imgs/install-jdk-01.png)
 
@@ -26,7 +26,7 @@
 
 `C:\Program Files\Eclipse Adoptium\jdk-11.0.13.8-hotspot`
 
-再打開 CMD 執行以下指令確認 JAVA 版本：
+### 再打開 CMD 執行以下指令確認 JAVA 版本：
 
 ``` shell
 java -version
@@ -42,4 +42,14 @@ OpenJDK 64-Bit Server VM (Temurin)(build 25.322-b06, mixed mode)
 
 表示安裝成功！*(這個表示目前使用的預設 JDK 是版本 8 的)*
 
-[返回](README.md)
+### 確認 Windows 環境變數
+
+Settings > System > About > System info > Advanced system settings > 環境變數
+
+![Figure 2](./imgs/env-variable-setting.png)
+
+![Figure 3](./imgs/env-variable-javahome.png)
+
+![Figure 4](./imgs/env-variable-path.png)
+
+## [返回 README](README.md)
