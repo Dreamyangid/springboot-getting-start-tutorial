@@ -8,11 +8,14 @@
 
 ### 2 - IDE 下載安裝 (VS Code / IntelliJ / Eclipse)
 
-[官方 Spring Tools 4](https://spring.io/tools)
+[官方 Spring Tools 4](https://spring.io/tools) | 
+[Installation Guide](https://github.com/spring-projects/sts4/wiki/Installation)
 
-[VS Code教學說明](./IDE_VSCODE.md)
+[VS Code 教學說明](./IDE_VSCODE.md)
 
-~~[Eclipse教學說明](./README.md)~~
+~~[Eclipse 教學說明](./README.md)~~
+
+~~[IntelliJ 教學說明](./README.md)~~
 
 ## 開始開發 - Spring Boot API 專案
 
