@@ -95,11 +95,15 @@
 
 執行 Maven `clean` & `package` 指令，如下圖：
 
-![Figure 10](./imgs/build-success.png)
+![Figure 10](./imgs/mvn-clean-package.png)
+
+成功打包！！！
+
+![Figure 11](./imgs/build-success.png)
 
 至以下路徑確認產出 `.jar` 檔：`target\hellospringboot-0.0.1-SNAPSHOT.jar`
 
-![Figure 11](./imgs/jar-location.png)
+![Figure 12](./imgs/jar-location.png)
 
 ### H - 本機佈署 Local Deploy
 
@@ -111,4 +115,4 @@ java -jar target\hellospringboot-0.0.1-SNAPSHOT.jar
 
 Output：
 
-![Figure 12](./imgs/start-application.png)
+![Figure 13](./imgs/start-application.png)
